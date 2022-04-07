@@ -4,7 +4,6 @@
 
 This is a very simple remix stack built for heroku. This includes:
 
-* dotenv to load environment variables
 * Postgres Sql for a datastore
 * Prism ORM for database queries
 
